@@ -1,5 +1,7 @@
 # Validador de Exemplos de README
 
+> Este projeto foi gerado automaticamente por IA e revisado por um agente automatizado, nao por uma pessoa. Leia o codigo antes de usar.
+
 ## Descrição
 
 Ferramenta de linha de comando para extrair blocos Python marcados em um arquivo Markdown, executá-los individualmente em diretórios temporários e apresentar um relatório textual de aprovação, falha ou expiração por tempo limite.
